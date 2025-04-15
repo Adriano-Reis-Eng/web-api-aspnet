@@ -1,0 +1,2 @@
+H:\Sistemas\SistemaUnity\Unity.BlazorApp\Unity.BlazorApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+H:\1-Desenvolvimento\SistemaUnity\Unity.BlazorApp\Unity.BlazorApp.Client\obj\Debug\net8.0\staticwebassets.build.json

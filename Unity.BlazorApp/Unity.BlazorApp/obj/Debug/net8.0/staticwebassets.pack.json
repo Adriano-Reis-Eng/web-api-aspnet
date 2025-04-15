@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.BlazorApp\\Unity.BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Unity.BlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Unity.BlazorApp.uzldbl4dzl.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.BlazorApp\\Unity.BlazorApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.BlazorApp\\Unity.BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.BlazorApp\\Unity.BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.BlazorApp\\Unity.BlazorApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Unity.BlazorApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Unity.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Unity.BlazorApp.props",
+      "PackagePath": "build\\Unity.BlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Unity.BlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\Unity.BlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Unity.BlazorApp.props",
+      "PackagePath": "buildTransitive\\Unity.BlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
