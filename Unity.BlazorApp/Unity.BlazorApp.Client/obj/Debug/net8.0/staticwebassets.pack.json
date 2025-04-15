@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.BlazorApp\\Unity.BlazorApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.BlazorApp\\Unity.BlazorApp.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.BlazorApp\\Unity.BlazorApp.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Unity.BlazorApp.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Unity.BlazorApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Unity.BlazorApp.Client.props",
+      "PackagePath": "build\\Unity.BlazorApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Unity.BlazorApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\Unity.BlazorApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Unity.BlazorApp.Client.props",
+      "PackagePath": "buildTransitive\\Unity.BlazorApp.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

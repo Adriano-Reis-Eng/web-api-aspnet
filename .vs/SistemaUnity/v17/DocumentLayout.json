@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\1-Desenvolvimento\\SistemaUnity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0205149-41AD-4241-A4E0-5FBD7214EE9D}|Unity.WebApi\\Unity.WebApi.csproj|h:\\1-desenvolvimento\\sistemaunity\\unity.webapi\\datacontext\\unitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0205149-41AD-4241-A4E0-5FBD7214EE9D}|Unity.WebApi\\Unity.WebApi.csproj|solutionrelative:unity.webapi\\datacontext\\unitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88984FE6-9C0B-449A-ADDE-5664FC98946A}|UnityApp.Models\\UnityApp.Models.csproj|h:\\1-desenvolvimento\\sistemaunity\\unityapp.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88984FE6-9C0B-449A-ADDE-5664FC98946A}|UnityApp.Models\\UnityApp.Models.csproj|solutionrelative:unityapp.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88984FE6-9C0B-449A-ADDE-5664FC98946A}|UnityApp.Models\\UnityApp.Models.csproj|h:\\1-desenvolvimento\\sistemaunity\\unityapp.models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88984FE6-9C0B-449A-ADDE-5664FC98946A}|UnityApp.Models\\UnityApp.Models.csproj|solutionrelative:unityapp.models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88984FE6-9C0B-449A-ADDE-5664FC98946A}|UnityApp.Models\\UnityApp.Models.csproj|h:\\1-desenvolvimento\\sistemaunity\\unityapp.models\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88984FE6-9C0B-449A-ADDE-5664FC98946A}|UnityApp.Models\\UnityApp.Models.csproj|solutionrelative:unityapp.models\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88984FE6-9C0B-449A-ADDE-5664FC98946A}|UnityApp.Models\\UnityApp.Models.csproj|h:\\1-desenvolvimento\\sistemaunity\\unityapp.models\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88984FE6-9C0B-449A-ADDE-5664FC98946A}|UnityApp.Models\\UnityApp.Models.csproj|solutionrelative:unityapp.models\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0205149-41AD-4241-A4E0-5FBD7214EE9D}|Unity.WebApi\\Unity.WebApi.csproj|h:\\1-desenvolvimento\\sistemaunity\\unity.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0205149-41AD-4241-A4E0-5FBD7214EE9D}|Unity.WebApi\\Unity.WebApi.csproj|solutionrelative:unity.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d4d7b63-2712-49a6-a309-3ff689de5696}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Unity.WebApi\\Program.cs",
+              "ToolTip": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.WebApi\\Program.cs",
+              "RelativeToolTip": "Unity.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:48:33.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loja.cs",
+              "DocumentMoniker": "H:\\1-Desenvolvimento\\SistemaUnity\\UnityApp.Models\\Loja.cs",
+              "RelativeDocumentMoniker": "UnityApp.Models\\Loja.cs",
+              "ToolTip": "H:\\1-Desenvolvimento\\SistemaUnity\\UnityApp.Models\\Loja.cs",
+              "RelativeToolTip": "UnityApp.Models\\Loja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:31:01.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Freelancer.cs",
+              "DocumentMoniker": "H:\\1-Desenvolvimento\\SistemaUnity\\UnityApp.Models\\Freelancer.cs",
+              "RelativeDocumentMoniker": "UnityApp.Models\\Freelancer.cs",
+              "ToolTip": "H:\\1-Desenvolvimento\\SistemaUnity\\UnityApp.Models\\Freelancer.cs",
+              "RelativeToolTip": "UnityApp.Models\\Freelancer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:25:28.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "H:\\1-Desenvolvimento\\SistemaUnity\\UnityApp.Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "UnityApp.Models\\Endereco.cs",
+              "ToolTip": "H:\\1-Desenvolvimento\\SistemaUnity\\UnityApp.Models\\Endereco.cs",
+              "RelativeToolTip": "UnityApp.Models\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:14:36.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\1-Desenvolvimento\\SistemaUnity\\UnityApp.Models\\User.cs",
+              "RelativeDocumentMoniker": "UnityApp.Models\\User.cs",
+              "ToolTip": "H:\\1-Desenvolvimento\\SistemaUnity\\UnityApp.Models\\User.cs",
+              "RelativeToolTip": "UnityApp.Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:09:07.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnityDbContext.cs",
+              "DocumentMoniker": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.WebApi\\DataContext\\UnityDbContext.cs",
+              "RelativeDocumentMoniker": "Unity.WebApi\\DataContext\\UnityDbContext.cs",
+              "ToolTip": "H:\\1-Desenvolvimento\\SistemaUnity\\Unity.WebApi\\DataContext\\UnityDbContext.cs",
+              "RelativeToolTip": "Unity.WebApi\\DataContext\\UnityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:57:50.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

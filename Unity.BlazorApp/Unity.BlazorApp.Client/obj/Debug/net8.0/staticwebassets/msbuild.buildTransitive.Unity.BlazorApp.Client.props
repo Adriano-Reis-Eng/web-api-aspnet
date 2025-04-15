@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Unity.BlazorApp.Client.props" />
+</Project>
